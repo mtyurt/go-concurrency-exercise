@@ -1,0 +1,2 @@
+Solutions to Golang concurrency exercises introduced in this [blogpost](http://whipperstacker.com/2015/10/05/3-trivial-concurrency-exercises-for-the-confused-newbie-gopher/). They are not ideal, subject to change, but they are all implemented **without mutexes**, _consciously_. I'm aware there is a [trade-off between mutexes and channels](https://github.com/golang/go/wiki/MutexOrChannel). But this is a learning experiment to get comfortable with Golang channels.   
+
